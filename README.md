@@ -23,3 +23,6 @@ I build small, reliable network automation tools that simplify complex operation
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco ISE](https://img.shields.io/badge/Cisco%20ISE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Aruba ClearPass](https://img.shields.io/badge/Aruba%20ClearPass-ED6F00?style=for-the-badge&logo=aruba&logoColor=white)
+
+
+feel free to reach out via LinkedIn, If you’d like a quick walkthrough or deeper technical details.
