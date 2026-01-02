@@ -4,7 +4,7 @@ I build small, reliable network automation tools that simplify complex operation
 
 **Socials**
 
-[![GitHUB](https://img.shields.io/badge/github-spola459-blue?logo=github0](https://github.com/spola459) 
+[![GitHUB](https://img.shields.io/badge/github-spola459-blue?logo=github](https://github.com/spola459) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sravan%20kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanpola/)
 
 **Tech Stack**
